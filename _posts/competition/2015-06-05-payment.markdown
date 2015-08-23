@@ -1,0 +1,22 @@
+---
+layout: utphax
+title:  "Payment"
+categories:
+- compete
+---
+
+<h4>Payment Mode</h4><br/><br/>
+
+1. __Cash__
+ * Finance Counter, Chancellor Complex, Universiti Teknologi PETRONAS
+2. __Cheque__
+ * Cheque should be made payable to Universiti Teknologi PETRONAS
+3. __Account Transfer / Cash Deposit__
+ * Account name : Universiti Teknologi PETRONAS
+ * Account number : 0809 0004 1240 54
+ * Bank : <a href="https://www.cimbclicks.com.my/ibk/" target="_blank">CIMB</a>
+ * Account type : Current
+
+<br/><br/>
+
+<h6>Please email a scanned copy of your transaction as proof of payment to <a href="mailto:utphax@cyberhax.club" target="_blank">utphax@cyberhax.club</a></h6>

@@ -1,0 +1,134 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: UTPHAX
+description: "UTPHAX, now back and way cooler."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "https://utphax.cyberhax.club"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#00b3fe" #"#F70031"
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+
+### CONTACT SETTINGS ###
+
+# Social networks - see font-awesome doc for icon list
+social:
+  - title: twitter
+    url: https://twitter.com/utphax_15
+  - title: facebook-square
+    url: https://www.facebook.com/utphax15
+  - title: youtube-play
+    url:
+  - title: photo
+    url: https://www.flickr.com/photos/134486812@N08
+  - title: send
+    url: mailto:utphax@cyberhax.club
+  - title: feed
+    url: 
+
+# Address. Shown in footer and on Contact page.
+address:
+  - lines:
+    - UTP-HAX 2015 Secretariat,
+    - Block 1, Computer and Information Sciences Department,
+    - Universiti Teknologi PETRONAS (UTP),
+    - 32610, Bandar Seri Iskandar,
+    - Tronoh, Perak, Malaysia.
+email: utphax@cyberhax.club
+tel1: 05-3687402
+tel2: 05-3687405
+tel3: 013-4494290 (Firdaus) Project Manager
+tel4: 012-3272356 (Shazlyn) Assistant Project Manager
+tel5: 012-4533438 (Hafizha) Registration Unit
+tel6: 014-7576010 (Khalidda) Registration Unit
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page -for now
+members:
+  - name: Mark Webber
+    position: CEO
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Paul Jameson
+    position: Lead Designer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Laura Sommers
+    position: Lead Developer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team03.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Martin Blunt
+    position: Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+
+# Clients information. Shown on Home and About pages.
+sponsor:
+  - name: FORTINET
+    img: fortinet.png
+  - name: CyberSecurity
+    img: cybersec.png
+  - name: KPERAK
+    img: kperak.png
+  - name: CyberHAX
+    img: cyberhax.png
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "UTPHAX is a national level hacking competition organized by Universiti Teknologi PETRONAS."
+
+# Testimonial content. Shown on Home and About page.
+testimonial:
+    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    author: Marcel Newman
+    position: WEB DESIGNER - BLACKTIE.CO
+
+# UTPHAX Objectives. Shown on About page.
+objective:
+    title: OBJECTIVES
+    obj1: "Recognize and reward Malaysian’s hacking talents from our local universities."
+    obj2: "Provide an International standard hacking competition platform among students in our local universities."
+    obj3: "Prepare our contestants and contestants from other local universities to be competent in participating in International contests such as Cyberlympic and DEFCON and possibly to organize our own International Hacking Competition."
+
+# Event details. Shown on Home.
+event:
+    title: National Hacking Competition 2015 (UTP-HAX'15)
+    host: Universiti Teknologi PETRONAS
+    date: 13th-14th November 2015
+    early: 31 August 2015
+    reg: 30 September 2015
+    venue: Department of Computer and Information Sciences, Universiti Teknologi PETRONAS.

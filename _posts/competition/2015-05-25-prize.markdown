@@ -1,0 +1,16 @@
+---
+layout: utphax
+title:  "Prize"
+categories:
+- compete
+---
+<center>
+<h1>UTPHAX 2015</h1>
+<h3>Final Prizes</h3>
+
+<h2>RM15,000</h2>
+
+RM1000 per question
+
+<p><br/><img src="https://i.imgur.com/Iv6e2CE.jpg"></p>
+</center>

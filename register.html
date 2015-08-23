@@ -1,0 +1,180 @@
+---
+layout: register
+title: Registration
+permalink: /register/
+---
+<div class="wheresmybackground">
+	<!-- multistep form -->
+	<form id="msform" role="form">
+		<!-- page1 -->
+		<fieldset class="center-block">
+			<h2 class="fs-title">UTPHAX 2015</h2>
+			<h3 class="fs-subtitle">Welcome!</h3>
+			<h4 style="color:red"class="fs-subtitle">1 of 3</h4>
+			<div class="progress">
+				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%">
+					<span class="sr-only">5% Complete</span>
+				</div>
+			</div>
+			<p><input type="text" data-validation="required" name="University" placeholder="University Name" /><span class="help-block form-error"></span></p>
+			<p><textarea data-validation="required" name="Address" placeholder="Address"></textarea><span class="help-block form-error"></span></p>
+			<p><input data-validation="required" type="text" name="Team" placeholder="Team Name" /><span class="help-block form-error"></span></p>
+			<p><input type="text" data-validation="email" name="_replyto" placeholder="Contact Email" /><span class="help-block form-error"></span></p>
+			<table>
+				<tr>
+					<td><label>Accomodation in UTP</label>&nbsp; &nbsp; &nbsp; </td>
+					<td><select name="Accommodation">
+						<option value="Yes">Yes</option>
+						<option value="No">No</option>
+					</select>
+				</td>
+				<tr>
+					<td><label>Payment Mode</label></td>
+					<td><select name="payment">
+						<option value="cash">Cash</option>
+						<option value="check">Cheque</option>
+						<option value="deposit">Account Transfer / Cash Deposit</option>
+					</select></td>
+				</table>
+				<input type="hidden" name="_subject" value="New UTPHAX registration!" />
+				<input type="button" name="next" class="next action-button" value="Next" onclick="subject(this.form)" />
+				<br/>
+			</fieldset>
+			<!-- page2 -->
+			<fieldset>
+				<h2 class="fs-title">Coach</h2>
+				<h3 style="color:red"class="fs-subtitle">2 of 3</h3>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+						<span class="sr-only">50% Complete</span>
+					</div>
+				</div>
+				<input type="hidden" name="COACH" value="COACH" />
+				<p><input data-validation="required" type="text" name="cname" placeholder="Coach Name" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="email" type="text" name="cmail" placeholder="Email" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="number" type="text" name="cphone" placeholder="Phone" /><span class="help-block form-error"></span></p>
+				<table><tr>
+					<td><label>T-shirt Size</label>&nbsp; &nbsp; &nbsp; </td>
+					<td><select name="cshirt">
+						<option value="XL">XL</option>
+						<option value="L">L</option>
+						<option value="M">M</option>
+						<option value="S">S</option>
+					</select></td></tr>
+				</table>
+				<br/><br/>
+				<h2 class="fs-title">Member 1 (Team Leader)</h2>
+				<input type="hidden" name="MEMBER 1" value="M01" />
+				<p><input data-validation="required" type="text" name="m1name" placeholder="Member Name" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="email" type="text" name="m1mail" placeholder="Email" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="number" type="text" name="m1ic" placeholder="IC" /><span class="help-block form-error"></span></p>
+				<table><tr>
+					<td><label>T-shirt Size</label>&nbsp; &nbsp; &nbsp; </td>
+					<td><select name="m1shirt">
+						<option value="XL">XL</option>
+						<option value="L">L</option>
+						<option value="M">M</option>
+						<option value="S">S</option>
+					</select></td></tr>
+				</table>
+				<input type="button" name="previous" class="previous action-button" value="Previous" />
+				<input type="button" name="next" class="next action-button" value="next" />
+				<br/>
+			</fieldset>
+			<!-- page3 -->
+			<fieldset>
+				<h2 class="fs-title">Team Member</h2>
+				<h3 style="color:red"class="fs-subtitle">3 of 3</h3>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+						<span class="sr-only">80% Complete</span>
+					</div>
+				</div>
+				<h3 class="fs-title">Member 2</h3>
+				<input type="hidden" name="MEMBER 2" value="M02" />
+				<p><input data-validation="required" type="text" name="m2name" placeholder="Member Name" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="email" type="text" name="m2mail" placeholder="Email" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="number" type="text" name="m2ic" placeholder="IC" /><span class="help-block form-error"></span></p>
+				<table><tr>
+					<td><label>T-shirt Size</label>&nbsp; &nbsp; &nbsp; </td>
+					<td><select name="m2shirt">
+						<option value="XL">XL</option>
+						<option value="L">L</option>
+						<option value="M">M</option>
+						<option value="S">S</option>
+					</select></td></tr>
+				</table>
+				<br/>
+				<br/>
+				<h2 class="fs-title">Member 3</h2>
+				<input type="hidden" name="MEMBER 3" value="M03" />
+				<p><input data-validation="required" type="text" name="m3name" placeholder="Member Name" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="email" type="text" name="m3mail" placeholder="Email" /><span class="help-block form-error"></span></p>
+				<p><input data-validation="number" type="text" name="m3ic" placeholder="IC" /><span class="help-block form-error"></span></p>
+				<table><tr>
+					<td><label>T-shirt Size</label>&nbsp; &nbsp; &nbsp; </td>
+					<td><select name="m3shirt">
+						<option value="XL">XL</option>
+						<option value="L">L</option>
+						<option value="M">M</option>
+						<option value="S">S</option>
+					</select></td></tr>
+				</table>
+				<input type="button" name="previous" class="previous action-button" value="Previous" />
+				<input type="button" name="next" class="next action-button" value="next" />
+				<br/>
+			</fieldset>
+			<!-- page4 -->
+			<fieldset>
+				<div class="progress">
+					<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+						<span class="sr-only">100% Complete</span>
+					</div>
+				</div>
+				<h2 class="fs-title">Confirmation</h2>
+				<h3 class="fs-subtitle">Thank You for registering in UTPHAX'15.</h3>
+				<p class="fs-subtitle">Click on "Register" to complete your registration.</p>
+				<p class="fs-subtitle">Our Registration Unit will contact you for further confirmation.</p>
+				<img src="https://i.imgur.com/j0c9Jt6m.jpg"/> <!--UTP LOGO-->
+				<br/>
+				<input type="button" name="previous" class="previous action-button" value="Previous" />
+				<button type="submit" value="Send" class="submit action-button btn">Register</button>
+			</fieldset>
+		</form><!-- /.msform -->
+
+		<!-- INCOMPLETE FORM ERROR MODAL -->
+		<div class="modal fade" id="error">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title">Incomplete Form</h4>
+					</div>
+					<div class="modal-body">
+						<p>Please fill in all entry before clicking <b>NEXT</b>.<br/>Thank you.</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-primary" data-dismiss="modal">Okay</button>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+
+		<!-- FORM SUBMIT MODAL -->
+		<div class="modal fade" id="success" data-backdrop="static">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h4 class="modal-title">Success!</h4>
+					</div>
+					<div class="modal-body">
+						<p>Thank you, your form has been submitted.</p>
+					</div>
+					<div class="modal-footer">
+						<a href="https://utphax.cyberhax.club/register/" type="button" class="btn btn-default">New registration</a>
+						<a href="https://utphax.cyberhax.club" type="button" class="btn btn-primary">Finish!</a>
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+</div>

@@ -1,0 +1,70 @@
+---
+layout: index
+title: 2015
+permalink: /
+---
+
+<div id="service">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 himg">
+        <br/><img src="{{ "/assets/img/utphax.png" | prepend: site.baseurl }}" class="img-responsive center-block"><br/>
+      </div>
+    </div><!-- /row -->
+  </div> <!-- /container -->
+  <div class="container">
+    <div class="row centered">
+      <div class="col-md-4">
+        <i class="fa fa-heart-o"></i>
+        <h4>UTPHAX</h4>
+        <p>UTPHAX is a national level hacking competition organized by Universiti Teknologi PETRONAS.</p>
+        <p><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+      </div>
+      <div class="col-md-4">
+        <i class="fa fa-twitter"></i>
+        <h4>Early Bird Rewards</h4>
+        <p>Register before <b style="color:red;">31st August</b> and gain access to exclusive UTPHAX workshop.</p>
+        <p><a href="{{ "/compete/register/" | prepend: site.baseurl }}" class="btn btn-theme">Join Us</a></p>
+      </div>
+      <div class="col-md-4">
+        <i class="fa fa-trophy"></i>
+        <h4>Pre-UTPHAX MV</h4>
+        <p>Join us this <b style="color:red;">11th of September</b> for Pre-UTPHAX Mobile Version (MV) at The Royale Chulan Hotel, Kuala Lumpur.</p>
+        <p><a href="{{ "/compete/preutphax/" | prepend: site.baseurl }}" class="btn btn-theme">Apply Now</a></p>
+      </div>
+    </div>
+  </div><! --/container -->
+</div><! --/service -->
+
+<br/>
+{% include event.html %}
+
+<div class="container mtb">
+  <div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-4">
+      <h4>Latest Posts</h4>
+      <div class="hline"></div>
+      {% for post in site.categories['blog'] limit:5 %}
+      <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+      {% endfor %}
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-4">
+      <h4>Frequently Asked</h4>
+      <div class="hline"></div>
+      {% for post in site.categories['question'] %}
+      <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+      {% endfor %}
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-4">
+      <a class="twitter-timeline" href="https://twitter.com/utphax_15" data-widget-id="635075231833452544">Tweets by @utphax_15</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+
+  </div><! --/row -->
+</div><! --/container -->
+
+<div class="hline"></div>
+<div class="hline"></div>

@@ -1,0 +1,41 @@
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}">{{ site.title }}</a>
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+      <ul class="nav navbar-nav">
+        <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
+        <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/about/" | prepend: site.baseurl }}">ABOUT</a></li>
+        <li {% if page.title == "Blog" %}class="active"{% endif %}><a href="{{"/blog/" | prepend: site.baseurl }}">BLOG</a></li>
+        <li {% if page.title == "Gallery" %}class="active"{% endif %}><a href="{{"/gallery/" | prepend: site.baseurl }}">GALLERY</a></li>
+        <li {% if page.title == "Register" %}class="active"{% endif %}><a href="{{"/register/" | prepend: site.baseurl }}">REGISTER</a></li>
+        <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">CONTACT</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">UTPHAX'15 &nbsp<i class="fa fa-caret-down"></i></a>
+          <ul class="dropdown-menu">
+            <li {% if page.title == "Invitation" %}class="active"{% endif %}><a href="{{"/compete/invitation/" | prepend: site.baseurl }}">Invitation</a></li>
+            <li {% if page.title == "Programme" %}class="active"{% endif %}><a href="{{"/compete/programme/" | prepend: site.baseurl }}">Programme</a></li>
+            <li {% if page.title == "Accommodation" %}class="active"{% endif %}><a href="{{"/compete/accommodation/" | prepend: site.baseurl }}">Accommodation</a></li>
+            <li role="separator" class="divider"></li>
+            <li {% if page.title == "Registration" %}class="active"{% endif %}><a href="{{"/compete/registration/" | prepend: site.baseurl }}">Registration</a></li>
+            <li role="separator" class="divider"></li>
+            <li {% if page.title == "Rules" %}class="active"{% endif %}><a href="{{"/compete/rules/" | prepend: site.baseurl }}">Rules</a></li>
+            <li {% if page.title == "Prize" %}class="active"{% endif %}><a href="{{"/compete/prize/" | prepend: site.baseurl }}">Prize</a></li>
+            <li {% if page.title == "Payment" %}class="active"{% endif %}><a href="{{"/compete/payment/" | prepend: site.baseurl }}">Payment</a></li>
+            <li {% if page.title == "Committee" %}class="active"{% endif %}><a href="{{"/compete/committee/" | prepend: site.baseurl }}">Committee</a></li>
+            <li {% if page.title == "Participants" %}class="active"{% endif %}><a href="{{"/compete/participants/" | prepend: site.baseurl }}">Participants</a></li>
+
+          </ul>
+        </li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>

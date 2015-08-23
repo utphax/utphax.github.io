@@ -1,0 +1,139 @@
+---
+layout: utphax
+title:  "Rules"
+categories:
+- compete
+---
+
+##Rules & Regulations
+<h3>LEAGUE HACK FORMAT GAME</h3>
+
+<div class="spacing"></div>
+All participants must bring their own laptop/notebook computer. >Each laptop/notebook computer needs to be registered (we will place a sticker on it) during registration for security precautions.
+<div class="spacing"></div>
+
+<ol>
+  <h4><li>Player, Team and Grouping</li></h4>
+    <ul>
+      <li>Each team consist of 3 players</li>
+      <li>Each group consist of 5 teams</li>
+      <li>Total of 40 teams, 8 groups, 120 players</li>
+      <li>Example as shown below</li>
+    </ul>
+
+    <img src="/assets/img/competition/rules_group.png" alt="Group">
+
+  <h4><li>Matches</li></h4>
+  <div class="spacing"></div>
+
+    <ol>
+      <h4>2.1 Group Stage</h4>
+        <ul>
+          <li>Each team will compete against the other teams in the same group.</li>
+          <li>3 rounds of hacking challenge will played at each group level.</li>
+          <li>A total of 16 matches for every round.</li>
+          <li>All 16 matches will be conducted concurrently</li>
+          <li>4 challenges will be prepared</li>
+          <li>Challenges will be released one by one either,</li>
+            <ol>
+              <li>Challenge 2 will be released once Challenge 1 is solved by any one of the two team in the match and same goes to Challenge 3 and 4; OR</li>
+              <li> Challenges released based on judge(s) decision depending on the situation.</li>
+            </ol>
+          <li>Each match will last for 30 minutes</li>
+
+          <img src="/assets/img/competition/rules_match.png" alt="Match">
+
+        </ul>
+
+        <h6><p><b>2.1.1 Winning the match at Group Stage</b></p></h6>
+          <ul>
+            <li>Winner will be determined by (sorted by priority)</li>
+              <ol>
+                <li>First team to solve all challenges within the time given; OR</li>
+                <li>Team that solved most of the challenges end of the time; OR</li>
+              </ol>
+            <li>Draw happened if the score between the 2 teams are equal when the time ends.</li>
+            <li> Winner will be given 2 points.</li>
+            <li>Draw will be given 1 point.</li>
+            <li>No point for the loser.</li>
+            <li>Team that solved all challenges in a match will gain 1 strike.</li>
+            <li>Game will be automatically ended once one of the team win by solving all of the 4 challenges. The time taken for the team to win the match will be clocked and added to Total Time in scoreboard.</li>
+            <li>In the event of none of the team manage to solved all 4 challenges before time ends, both team will be added with 45 minutes to their Total Time.</li>
+            <li>Automatic win for opponent to no-show team.</li>
+          </ul>
+
+        <h6><p><b>2.1.2 Group ranking</b></p></h6>
+          <ul>
+            <li>Group rank will be based on the following order/priority</li>
+              <ol>
+                <li>Most points – awarded by win or draw</li>
+                <li>Most strike – awarded by completed all challenges in a match</li>
+                <li>Most solved – awarded based on total solved challenges</li>
+                <li> Least Total Time – counted based on time to complete/win/draw the match</li>
+              </ol>
+            <li>Example of grouping and points</li>
+
+            <style type="text/css">@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style><div class="tg-wrap"><table style="border-collapse:collapse;border-spacing:0;border-color:#999;table-layout: fixed; width: 504px"><colgroup><col style="width: 98px"><col style="width: 102px"><col style="width: 102px"><col style="width: 99px"><col style="width: 103px"></colgroup><tr><th style="font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;text-align:center">Team</th><th style="font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;text-align:center">Total Time</th><th style="font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;text-align:center">Solved</th><th style="font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;text-align:center">Strike</th><th style="font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;text-align:center">Points</th></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;font-weight:bold;text-align:center">Team A</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;font-weight:bold;text-align:center">Team B</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;font-weight:bold;text-align:center">Team C</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;font-weight:bold;text-align:center">Team D</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;font-weight:bold;text-align:center">Team E</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;text-align:center"></td></tr></table></div>
+
+          </ul>
+
+          <div class="</div>"></div>
+
+      <h4>2.2 Semi-Final Stage</h4>
+        <ul>
+          <li>Team at 1st and 2nd rank from each of the group level will move on into the Semi-Final stage</li>
+          <li>Semi-Final stage is a knockout round.</li>
+          <li>Total of 16 teams with 8 matches</li>
+          <li>All 8 matches will be conducted at the same time</li>
+          <li>Each round will take 45 minutes.</li>
+          <li>4 challenges will be prepared</li>
+          <li>Challenges will be released one by one either</li>
+            <ol>
+              <li>Challenge 2 will be released once Challenge 1 is solved by any one of the two team in the match and same goes to Challenge 3 and 4; OR</li>
+              <li>Challenges released based on judge(s) decision depending on the situation.</li>
+            </ol>
+        </ul>
+
+        <h6><p><b>2.2.1 Winning the match at Semi-Final stage</b></p></h6>
+          <ul>
+            <li>Winner will be determined by (sorted by priority)</li>
+              <ol>
+                <li>First team to solved all challenges within the time; OR</li>
+                <li>Team that solved most challenges when the time ends; OR</li>
+                <li>The first time to gain the score as this mean they are earlier to solve. (eg: in case of score is 2-2, the first team to gain score of 2 will be winner)</li>
+              </ol>
+            <li>Winner of this round will be able to compete on the next stage.</li>
+            <li>Game will automatically ended once one of the team win by solving all challenges.</li>
+            <li>Automatic win for opponent to no-show team</li>
+          </ul>
+
+          <div class="spacing"></div>
+
+      <h4>2.3 Final Stage</h4>
+        <ul>
+          <li>Winner from Semi-Final Stage will be able to play on semi-final</li>
+          <li>Final Stage will be a knockout round.</li>
+          <li>Total of 8 teams</li>
+          <li>Duration of Final stage is 3 hours</li>
+          <li>Minimum of 8 challenges need to be solved.</li>
+          <li>Challenges will be released one by one either</li>
+            <ol>
+              <li>Challenge 2 released once challenge 1 is solved by any one of the two team in the match and same goes to challenge 3 and 4; OR</li>
+              <li>Whenever judges want to release the challenge</li>
+            </ol>
+          <li>Game will be played for full duration of 3 hours even all of the challenges are solved.</li>
+        </ul>
+
+        <h6><p><b>2.3.1 Winning the competition</b></p></h6>
+          <ul>
+            <li>Each challenge will have a different points (ranging from 100-500).</li>
+            <li>Winner will be the team that have a higher total points score (including bonus point)</li>
+            <li>In case of the final point is draw, winner will be determined based on the following (order by priority)</li>
+              <ol>
+                <li>First team to solved all challenges within the time (not including Bonus challenge); OR</li>
+                <li>Team that solved most challenges when the time ends (not including Bonus challenge); OR</li>
+                <li>Recent submission time – earlier will be winner</li>
+              </ol>
+          </ul>
+
+ </ol>
