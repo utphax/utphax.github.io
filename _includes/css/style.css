@@ -379,7 +379,7 @@ a:hover, a:focus {
 /* clients logo */
 
 #cwrap {
-  background: #f7f7f7;
+  background: #eee;
   margin-top: 0px;
   padding-top: 80px;
   padding-bottom: 100px;
@@ -549,7 +549,7 @@ a.anchor {
 /* Registration Page */
 
 .wheresmybackground {
-  background: url('http://www.utp.edu.my/icias2010/images/stories/chancellor2.jpg') no-repeat top center;
+  background: url('../img/utp_chancellor.jpg') no-repeat top center;
   position: relative;
   margin-top: -60px;
   padding-top:0px;

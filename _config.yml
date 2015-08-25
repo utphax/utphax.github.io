@@ -34,10 +34,10 @@ social:
     url:
   - title: photo
     url: https://www.flickr.com/photos/134486812@N08
+  - title: rss-square
+    url: https://cloud.feedly.com/#subscription/feed/http://https://utphax.cyberhax.club/feed.xml
   - title: send
     url: mailto:utphax@cyberhax.club
-  - title: feed
-    url: 
 
 # Address. Shown in footer and on Contact page.
 address:
