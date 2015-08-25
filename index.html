@@ -24,7 +24,7 @@ permalink: /
         <i class="fa fa-twitter"></i>
         <h4>Early Bird Rewards</h4>
         <p>Register before <b style="color:red;">31st August</b> and gain access to exclusive UTPHAX workshop.</p>
-        <p><a href="{{ "/compete/register/" | prepend: site.baseurl }}" class="btn btn-theme">Join Us</a></p>
+        <p><a href="{{ "/compete/registration/" | prepend: site.baseurl }}" class="btn btn-theme">Join Us</a></p>
       </div>
       <div class="col-md-4">
         <i class="fa fa-trophy"></i>
@@ -41,7 +41,7 @@ permalink: /
 
 <div class="container mtb">
   <div class="row">
-    <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="col-lg-3 col-md-3 col-sm-3">
       <h4>Latest Posts</h4>
       <div class="hline"></div>
       {% for post in site.categories['blog'] limit:5 %}
@@ -49,12 +49,17 @@ permalink: /
       {% endfor %}
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-4">
-      <h4>Frequently Asked</h4>
+    <div class="col-lg-5 col-md-5 col-sm-5">
+      <h4>UTP-HAX'15</h4>
       <div class="hline"></div>
-      {% for post in site.categories['question'] %}
-      <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
-      {% endfor %}
+      <div class="spacing"></div>
+      <!-- 16:9 aspect ratio -->
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GOxsJZtZmnk"></iframe>
+      </div>
+      <div class="alert alert-success" role="alert">
+        <a href="https://youtu.be/8ASBq7UiKCs" target="_blank" class="alert-link">Click here to see last year's montage.</a>
+      </div>
     </div>
 
     <div class="col-lg-4 col-md-4 col-sm-4">
