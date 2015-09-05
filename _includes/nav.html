@@ -1,5 +1,30 @@
+<script>
+	        $(document).ready(function() {
+        
+            $('#nav').affix({
+      offset: {
+        top: 50
+      }
+}); 
+
+$('#sidebar').affix({
+      offset: {
+        top: 17
+      }
+}); 
+        
+        });
+</script>
+
+<header class="masthead">
+  <div class="container">
+	<img src="{{ "/assets/img/sponsor/banner.png" | prepend: site.baseurl }}" alt="utphax-sponsor-banner" class="img-responsive center-block">
+  </div>
+</header> 
+
 <!-- Fixed navbar -->
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div id="nav">
+<div class="navbar navbar-default navbar-static" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -38,4 +63,6 @@
       </ul>
     </div><!--/.nav-collapse -->
   </div>
+</div>
+</div>
 </div>
