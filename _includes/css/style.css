@@ -645,6 +645,8 @@ a.anchor {
 /* masthead + static navbar */
 
 .masthead {
+	height: 120px;
+	background-color: #fff;
 }
 
 /* bootstrap 3 helpers */
