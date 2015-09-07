@@ -7,6 +7,20 @@
 <script src="{{ "/assets/js/jquery.prettyPhoto.js" | prepend: site.baseurl }}"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
 <script src="{{ "/assets/js/custom.js" | prepend: site.baseurl }}"></script>
+<script>
+	$(document).ready(function() {
+		$('#nav').affix({
+			offset: {
+				top: 300
+			}
+		});
+		$('#sidebar').affix({
+			offset: {
+				top: 10
+			}
+		});
+	});
+</script>
 {% if site.analytics %}
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -16,20 +30,5 @@
 
   ga('create', '{{ site.analytics }}', 'auto');
   ga('send', 'pageview');
-</script>
-<script>
-	$(document).ready(function() {
-		$('#nav').affix({
-			offset: {
-				top: 50
-			}
-		});
-		
-		$('#sidebar').affix({
-			offset: {
-				top: 17
-			}
-		});
-	});
 </script>
 {% endif %}
