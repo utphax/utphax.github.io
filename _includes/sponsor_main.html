@@ -3,8 +3,8 @@
         <div class="row centered">
             <h3>UTPHAX is made possible by</h3>
             {% for sponsor in site.sponsor %}
-                <div class="col-lg-3 col-md-3 col-sm-3">
-                    <img src="{{ "/assets/img/sponsor/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive center-block">
+                <div class="col-xs-6 col-md-3">
+                    <img src="{{ "/assets/img/organization/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive center-block">
                 </div>
             {% endfor %}
         </div><! --/row -->

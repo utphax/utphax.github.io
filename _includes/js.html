@@ -11,12 +11,7 @@
 	$(document).ready(function() {
 		$('#nav').affix({
 			offset: {
-				top: 300
-			}
-		});
-		$('#sidebar').affix({
-			offset: {
-				top: 10
+				top: $('header').height()
 			}
 		});
 	});

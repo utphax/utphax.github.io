@@ -642,26 +642,15 @@ a.anchor {
 	margin-bottom: 20px;
 }
 
-/* masthead + static navbar */
+/* masthead setting */
 
 .masthead {
 	background-color: #fff;
 }
-
-/* bootstrap 3 helpers */
 
 #nav.affix {
     position: fixed;
     top: 0;
     width: 100%;
     z-index:10;
-}
-
-#sidebar.affix-top {
-    position: static;
-}
-
-#sidebar.affix {
-    position: fixed;
-    top: 50px;
 }
