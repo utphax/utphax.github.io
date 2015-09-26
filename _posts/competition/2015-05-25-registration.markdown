@@ -10,9 +10,5 @@ categories:
 
 * Registration fee : RM200 per team
 
-####Early Bird Reward
-
-* Attend UTPHAX workshop for FREE. (Additional fee may be applicable)
-
 
 <p><br/><a href="{{ "/register/" | prepend: site.baseurl }}" class="btn btn-theme">Apply Now</a></p>
