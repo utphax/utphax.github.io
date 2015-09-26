@@ -28,6 +28,7 @@ Final teams arrangement and complete list of participants will be updated once t
   <li>Asia Pacific Univeristy</li>
 </ul>
 
-<a href="https://drive.google.com/file/d/0B50FDu_wTIxjU2tZNWFBdXZUYXhxcVhXcnJRcVZnUzJXUWRr/view?usp=sharing" target="_blank">Click here</a> to view the workshop outline.
+<a href="https://drive.google.com/file/d/0B50FDu_wTIxjU2tZNWFBdXZUYXhxcVhXcnJRcVZnUzJXUWRr/view?usp=sharing" target="_blank">Click here</a> to view the workshop outline.<br/>
+You may view the workshop tentative <a href="https://drive.google.com/file/d/0B50FDu_wTIxjdGxwWHh3TGl1T3h3YVh6RU5HNFl1a1FnV2Ew/view?usp=sharing" target="_blank">here</a>.
   </div>
 </div>
