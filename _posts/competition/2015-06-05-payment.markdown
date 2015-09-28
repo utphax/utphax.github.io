@@ -13,7 +13,7 @@ categories:
  * Cheque should be made payable to Universiti Teknologi PETRONAS
 3. __Account Transfer / Cash Deposit__
  * Account name : Universiti Teknologi PETRONAS
- * Account number : 0809 0004 1240 54
+ * Account number : 0809 0004 1240 54 / 8004 8527 03 
  * Bank : <a href="https://www.cimbclicks.com.my/ibk/" target="_blank">CIMB</a>
  * Account type : Current
 
