@@ -18,3 +18,5 @@ The UTPHAX Secretariat and the organizers cordially invites all institutions of 
 * Each university / college may send up to three (3) teams. If a university / college registers for more than three teams, the fourth and subsequent teams are placed in the waiting list. If an availability arises, teams in the waiting list will be contacted to participate.
 
 * Registration fee per team is RM 200.
+
+<p><br/><a href="{{ "/compete/registration/" | prepend: site.baseurl }}" class="btn btn-theme">Registration Details</a></p>
