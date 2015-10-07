@@ -97,7 +97,7 @@ $("input").keypress(function (evt) {
   }
 });
 
-// submit form
+// submit form #msform
 $(".submit").click(function(){
 	// submits form via ajax
 	var $contactForm = $('#msform');

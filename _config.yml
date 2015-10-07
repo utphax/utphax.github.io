@@ -24,12 +24,12 @@ colors:  #in hex code if not noted else
 
 ### CONTACT SETTINGS ###
 
-# Social networks - see font-awesome doc for icon list
+# Social Networks
 social:
   - title: twitter
     url: https://twitter.com/utphax_15
   - title: facebook-square
-    url: https://www.facebook.com/utphax15
+    url: https://fb.com/utphaxfifteen
   - title: photo
     url: https://www.flickr.com/photos/134486812@N08
   - title: rss-square

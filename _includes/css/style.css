@@ -1,6 +1,6 @@
 /*	################################################################
 
-	Author: Carlos Alvarez
+	Original Author: Carlos Alvarez
 	URL: http://alvarez.is
 
 	Project Name: SOLID - Bootstrap 3 Theme
@@ -233,7 +233,6 @@ a:hover, a:focus {
   margin-bottom: 25px;
 }
 
-
 /*	################################################################
 	SITE WRAPS
 ################################################################# */
@@ -274,65 +273,7 @@ a:hover, a:focus {
   padding: 15px;
 }
 
-
-/* Portfolio Wrap */
-
-#portfoliowrap {
-  padding-top: 60px;
-  margin-bottom: 60px;
-  display: block;
-  text-align: center;
-}
-
-#portfoliowrap h3 {
-  margin-bottom: 25px;
-}
-
-.portfolio {
-  padding: 0 !important;
-  margin: 0 !important;
-  display: block;
-}
-
-.portfolio-item .title:before {
-  border-radius: 0;
-  display: none
-}
-
-.portfolio-item p {
-  margin: 0px 0 30px;
-}
-
-.portfolio-item h3 {
-  margin: -10px 0 10px;
-  font-size: 16px;
-  text-transform: uppercase;
-}
-
-.tpl6 h3 {
-  color: #fff;
-  margin: 0;
-  padding: 40px 5px 0;
-  font-size: 16px;
-  text-transform: uppercase;
-}
-
-.tpl6 .dmbutton {
-  display: inline-block;
-  margin: 30px 5px 20px 5px;
-  font-size: 13px;
-}
-
-.tpl6 .bg {
-  height: 100%;
-  width: 100%;
-  background-color: {{site.colors.primary}};
-  background-color: rgba({{site.colors.primary_rgb}}, .9);
-  text-align:center;
-}
-
-
-/* Testimonials Wrap */
+/* city blue Wrap */
 
 #twrapback {
   background-color: {{site.colors.primary}};
@@ -483,55 +424,6 @@ csmall {
   background: {{site.colors.primary}};
 }
 
-
-/* Blog Page */
-
-.popular-posts {
-  margin: 0px;
-  padding-left: 0px;
-}
-
-.popular-posts li {
-  list-style: none;
-  margin-bottom: 20px;
-  min-height: 70px;
-}
-
-.popular-posts li a,
-.popular-posts li a:hover {
-  color: #2f2f2f;
-  text-decoration: none;
-}
-
-.popular-posts li img {
-  float: left;
-  margin-right: 20px;
-}
-
-.popular-posts li em {
-  font-family: 'Lato', sans-serif;
-  font-size: 12px;
-  color: #b3b3b3
-}
-
-.popular-posts p {
-  line-height: normal;
-  margin-bottom: auto;
-}
-
-.share i {
-  padding-right: 15px;
-  font-size: 18px;
-}
-
-a.anchor {
-  display: block;
-  position: relative;
-  top: -80px;
-  visibility: hidden;
-}
-
-
 /* Gallery Page */
 
 .content {
@@ -654,4 +546,191 @@ a.anchor {
     top: 0;
     width: 100%;
     z-index:10;
+}
+
+/* Cosplay registration form */
+
+.cosplay_reg {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  display: block;
+  color: #404040;
+  background: {{site.colors.secondary}}
+}
+
+#cosform .register-title {
+  width: auto;
+  line-height: 45px;
+  font-size: 19px;
+  font-weight: 500;
+  color: white;
+  color: rgba(255, 255, 255, 0.95);
+  text-align: center;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  background: {{site.colors.secondary}};
+}
+
+#cosform .register {
+  margin: 0 auto;
+  width: 230px;
+  padding: 20px;
+  background: #f4f4f4;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+#cosform input {
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#cosform .register-input {
+  display: block;
+  width: 100%;
+  height: 38px;
+  margin-top: 2px;
+  font-weight: 500;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid #d8d8d8;
+}
+#cosform .register-input:focus {
+  border-color: #1e9ce6;
+  outline: 0;
+}
+
+#cosform .register-button {
+  display: block;
+  width: 100%;
+  height: 42px;
+  margin-top: 25px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #494d59;
+  text-align: center;
+  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
+  background: #fcfcfc;
+  border: 1px solid;
+  border-color: #d8d8d8 #d1d1d1 #c3c3c3;
+  border-radius: 2px;
+  cursor: pointer;
+  background-image: -webkit-linear-gradient(top, #fefefe, #eeeeee);
+  background-image: -moz-linear-gradient(top, #fefefe, #eeeeee);
+  background-image: -o-linear-gradient(top, #fefefe, #eeeeee);
+  background-image: linear-gradient(to bottom, #fefefe, #eeeeee);
+  -webkit-box-shadow: inset 0 -1px rgba(0, 0, 0, 0.03), 0 1px rgba(0, 0, 0, 0.04);
+  box-shadow: inset 0 -1px rgba(0, 0, 0, 0.03), 0 1px rgba(0, 0, 0, 0.04);
+}
+#cosform .register-button:active {
+  background: #eee;
+  border-color: #c3c3c3 #d1d1d1 #d8d8d8;
+  background-image: -webkit-linear-gradient(top, #eeeeee, #fcfcfc);
+  background-image: -moz-linear-gradient(top, #eeeeee, #fcfcfc);
+  background-image: -o-linear-gradient(top, #eeeeee, #fcfcfc);
+  background-image: linear-gradient(to bottom, #eeeeee, #fcfcfc);
+  -webkit-box-shadow: inset 0 1px rgba(0, 0, 0, 0.03);
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.03);
+}
+#cosform .register-button:focus {outline: 0;}
+
+#cosform .register-switch {
+  height: 32px;
+  margin-bottom: 15px;
+  padding: 4px;
+  background: #6db244;
+  border-radius: 2px;
+  background-image: -webkit-linear-gradient(top, #60a83a, #7dbe52);
+  background-image: -moz-linear-gradient(top, #60a83a, #7dbe52);
+  background-image: -o-linear-gradient(top, #60a83a, #7dbe52);
+  background-image: linear-gradient(to bottom, #60a83a, #7dbe52);
+  -webkit-box-shadow: inset 0 1px rgba(0, 0, 0, 0.05), inset 1px 0 rgba(0, 0, 0, 0.02), inset -1px 0 rgba(0, 0, 0, 0.02);
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.05), inset 1px 0 rgba(0, 0, 0, 0.02), inset -1px 0 rgba(0, 0, 0, 0.02);
+}
+
+#cosform .register-switch-input {display: none;}
+
+#cosform .register-switch-label {
+  float: left;
+  width: 50%;
+  line-height: 32px;
+  color: white;
+  text-align: center;
+  text-shadow: 0 -1px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+#cosform .register-switch-input:checked + .register-switch-label {
+  font-weight: 500;
+  color: #434248;
+  text-shadow: 0 1px rgba(255, 255, 255, 0.5);
+  background: white;
+  border-radius: 2px;
+  background-image: -webkit-linear-gradient(top, #fefefe, #eeeeee);
+  background-image: -moz-linear-gradient(top, #fefefe, #eeeeee);
+  background-image: -o-linear-gradient(top, #fefefe, #eeeeee);
+  background-image: linear-gradient(to bottom, #fefefe, #eeeeee);
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+#cosform :-moz-placeholder {color: #aaa;font-weight: 300;}
+#cosform ::-moz-placeholder {color: #aaa;font-weight: 300;opacity: 1;}
+#cosform ::-webkit-input-placeholder {color: #aaa;font-weight: 300;}
+#cosform :-ms-input-placeholder {color: #aaa;font-weight: 300;}
+#cosform ::-moz-focus-inner {border: 0;padding: 0;}
+
+/* Cosplay Guest Wrap */
+
+#coswrapback {
+  background-color: #fff;
+  background-color: rgba(255,255,255, .3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#coswrap0 {background: {{site.colors.secondary}};}
+#coswrap1 {background: url(../img/Yukise_Michi.jpg) no-repeat center top;}
+#coswrap2 {background: url(../img/Yone_Saizho.jpg) no-repeat center top;}
+#coswrap3 {background: url(../img/Ayu_Afrina.jpg) no-repeat center center;}
+
+#coswrap1, #coswrap2, #coswrap3 {
+  position: relative;
+  margin-top: 0px;
+  padding-top: 60px;
+  text-align: center;
+  background-attachment: relative;
+  min-height: 450px;
+  width: 100%;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#coswrap1 i, #coswrap2 i, #coswrap3 i {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 25px;
+}
+
+#coswrap1 p, #coswrap2 p, #coswrap3 p {
+  color: white;
+  font-size: 15px;
+  line-height: 30px;
 }
