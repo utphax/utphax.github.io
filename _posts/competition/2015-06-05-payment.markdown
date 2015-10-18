@@ -17,10 +17,12 @@ categories:
  * Bank : <a href="https://www.cimbclicks.com.my/ibk/" target="_blank">CIMB</a>
  * Account type : Current
 
-<br/><br/><div class="hline"></div>
+<br/><br/>
 
 __Universities / UTPHAX Participants__
 <h6>Please email a scanned copy of your transaction as proof of payment to <a href="mailto:utphax@cyberhax.club" target="_blank">utphax@cyberhax.club</a></h6>
+
+<br/>
 
 __Vendors / Exhibitors / Cosplayers__
 <h6>Please email a scanned copy of your transaction as proof of payment to <a href="mailto:utphax.pr@cyberhax.club" target="_blank">utphax.pr@cyberhax.club</a></h6>
