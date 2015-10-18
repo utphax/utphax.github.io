@@ -13,10 +13,14 @@ categories:
  * Cheque should be made payable to Universiti Teknologi PETRONAS
 3. __Account Transfer / Cash Deposit__
  * Account name : Universiti Teknologi PETRONAS
- * Account number : 0809 0004 1240 54 / 8004 8527 03 
+ * Account number : ( 0809 0004 1240 54 ) or ( 8004 8527 03 )
  * Bank : <a href="https://www.cimbclicks.com.my/ibk/" target="_blank">CIMB</a>
  * Account type : Current
 
-<br/><br/>
+<br/><br/><div class="hline"></div>
 
+__Universities / UTPHAX Participants__
 <h6>Please email a scanned copy of your transaction as proof of payment to <a href="mailto:utphax@cyberhax.club" target="_blank">utphax@cyberhax.club</a></h6>
+
+__Vendors / Exhibitors / Cosplayers__
+<h6>Please email a scanned copy of your transaction as proof of payment to <a href="mailto:utphax.pr@cyberhax.club" target="_blank">utphax.pr@cyberhax.club</a></h6>
