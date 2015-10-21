@@ -4,11 +4,8 @@ title:  "Registration"
 categories:
 - compete
 ---
-####Registration is now OPEN until 22nd of October 2015
+####Registration is now CLOSED
 
 * Three teams per college/university. Fourth and subsequent teams from the same college/university will be placed in waiting lists in the order the registration details are received. If availability arises, the reserved teams will be contacted to participate.
 
 * Registration fee : RM200 per team
-
-
-<p><br/><a href="{{ "/register/" | prepend: site.baseurl }}" class="btn btn-theme">Register Now</a></p>
