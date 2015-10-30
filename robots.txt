@@ -2,4 +2,6 @@
 User-agent: *
 Disallow:
 Disallow: /cgi-bin/
+          /cgi-cdn/
+          /register_closed/
 Sitemap: https://utphax.cyberhax.club/sitemap.xml
