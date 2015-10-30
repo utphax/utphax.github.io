@@ -1,8 +1,9 @@
 ---
-layout: index
+layout: default
 title: 2015
 permalink: /
 ---
+{% include slider.html %}
 
 <div id="service">
   <div class="container">
@@ -41,7 +42,7 @@ permalink: /
 
 <div class="container mtb">
   <div class="row">
-    
+
     <div class="col-lg-5 col-md-5 col-sm-5 col-md-offset-1">
       <h4>UTP-HAX'15</h4>
       <div class="hline"></div>
@@ -61,3 +62,16 @@ permalink: /
     </div>
   </div><! --/row -->
 </div><! --/container -->
+
+<div id="cwrap">
+    <div class="container">
+        <div class="row centered">
+            <h3>UTPHAX is made possible by</h3>
+            {% for sponsor in site.sponsor %}
+                <div class="col-xs-6 col-md-3">
+                    <img src="{{ "/assets/img/organization/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive center-block">
+                </div>
+            {% endfor %}
+        </div><! --/row -->
+    </div><! --/container -->
+</div><! --/cwrap -->
