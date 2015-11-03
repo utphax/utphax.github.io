@@ -15,7 +15,7 @@ Final teams arrangement and complete list of participants will be updated once w
   </div>
   <div class="panel-body">
 
-  <b>Venue</b>: Universiti Teknologi Petronas <br/>
+  <b>Venue</b>: Universiti Teknologi PETRONAS <br/>
   <b>Date</b>: 13-14 November 2015 <br/><br/>
 
   The listed Institutes below are registered for UTPHAX'15.<br/><br/>

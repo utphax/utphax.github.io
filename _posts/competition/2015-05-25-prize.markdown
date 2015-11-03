@@ -4,13 +4,38 @@ title:  "Prize"
 categories:
 - compete
 ---
-<center>
+
 <h1>UTPHAX 2015</h1>
-<h3>Final Prizes</h3>
+<h3>Total Prizes</h3>
 
 <h2>RM15,000</h2>
 
-RM1000 per question
 
-<p><br/><img src="https://i.imgur.com/Iv6e2CE.jpg"></p>
-</center>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Prizing Breakdown</h3>
+  </div>
+  <div class="panel-body">
+
+  <ul><b>Bounty Award</b><br/>
+    This award is given to the team that first solve a challenge. The breakdown proposed are as follows:
+    <ul><br/>
+      <li><b>Group Stage - RM 1000</b><br/>
+        There will be 5 round of match at group stage. At each round there will be a "jackpot" question where first team to solve this challenge will receive an award of RM200.<br/><br/></li>
+      <li><b>Semi-Final Stage - RM 500</b><br/>
+        There will be a jackpot challenge where first solver will be awarded with RM500. This is to be finalised later, as we can also opt for 2 jackpot challenges worth RM250 each or RM200 and RM300.<br/><br/></li>
+      <li><b>Final Stage - RM 10,000</b><br/>
+        Unlike earlier stage, all challenges at Final stage have a bounty award. Any teams that first solve will receive an award. However, each challenge will have a different value of award. For example, a challenge could be RM800, while the other is RM2000. it will be based on difficulty.<br/><br/></li>
+    </ul>
+  </ul>
+  <ul><b>Top Scorer Award - RM 3500</b><br/>
+    This award is only entitled to the Finalist. This award looks on the total challenges solved by each team, and does not take into account either they are first solve or last solve. The proposed breakdown is as follows:
+    <ul><br/>
+      <li>Gold Scorer - RM 1500</li>
+      <li>Silver Scorer - RM 1100</li>
+      <li>Bronze Scorer - RM 900</li>
+    </ul>
+  </ul>
+  </div>
+</div>
