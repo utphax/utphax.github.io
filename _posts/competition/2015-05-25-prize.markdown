@@ -19,7 +19,7 @@ categories:
   <div class="panel-body">
 
   <ul><b>Bounty Award</b><br/>
-    This award is given to the team that first solve a challenge. The breakdown proposed are as follows:
+    This award is given to the team that first solve a challenge. The breakdown are as follows:
     <ul><br/>
       <li><b>Group Stage - RM 1000</b><br/>
         There will be 5 round of match at group stage. At each round there will be a "jackpot" question where first team to solve this challenge will receive an award of RM200.<br/><br/></li>
@@ -30,8 +30,8 @@ categories:
     </ul>
   </ul>
   <ul><b>Top Scorer Award - RM 3500</b><br/>
-    This award is only entitled to the Finalist. This award looks on the total challenges solved by each team, and does not take into account either they are first solve or last solve. The proposed breakdown is as follows:
-    <ul><br/>
+    This award is only entitled to the Finalist. This award looks on the total challenges solved by each team, and does not take into account either they are first solve or last solve. The breakdown is as follows:
+    <ul>
       <li>Gold Scorer - RM 1500</li>
       <li>Silver Scorer - RM 1100</li>
       <li>Bronze Scorer - RM 900</li>
