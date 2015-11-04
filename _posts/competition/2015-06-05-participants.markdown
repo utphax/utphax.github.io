@@ -18,7 +18,7 @@ categories:
 				The listed Institutes below are registered for UTPHAX'15.<br>
 				<br>
 				<ul>
-					<li>PPoliteknik Seberang Perai</li>
+					<li>Politeknik Seberang Perai</li>
 					<li>Universiti Putra Malaysia</li>
 					<li>Asia Pacific University</li>
 					<li>Kolej Poly-Tech MARA Alor Setar (KPTM)</li>
@@ -115,7 +115,7 @@ categories:
 <br/><br/>
 
 <div>
-	<table class="table table-striped table-responsive" id="my-table">
+	<table class="table table-striped table-responsive" id="my-table" style="width:100%;">
 		<thead>
 			<tr>
 				<th>Institute</th>
