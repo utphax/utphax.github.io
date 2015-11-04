@@ -1,45 +1,48 @@
 ---
-layout: utphax
+layout: default
 title:  "Participants"
 categories:
 - compete
 ---
 
-####UTPHAX 2015 Teams & Participants
-
-
-<div class="panel panel-primary">
-	<div class="panel-heading">
-		<h3 class="panel-title">List of participating Institute</h3>
-	</div>
-	<div class="panel-body">
-		<b>Venue</b>: Universiti Teknologi PETRONAS<br>
-		<b>Date</b>: 13-14 November 2015<br>
-		<br>
-		The listed Institutes below are registered for UTPHAX'15.<br>
-		<br>
-		<ul>
-			<li>PPoliteknik Seberang Perai</li>
-			<li>Universiti Putra Malaysia</li>
-			<li>Asia Pacific University</li>
-			<li>Kolej Poly-Tech MARA Alor Setar (KPTM)</li>
-			<li>Kolej Universiti Islam Antarabangsa Selangor</li>
-			<li>University Kuala Lumpur Malaysian Institute of Information Technology</li>
-			<li>University Teknologi MARA Melaka</li>
-			<li>Multimedia University</li>
-			<li>Universiti Teknologi MARA Terengganu</li>
-			<li>Universiti Pendidikan Sultan Idris (UPSI)</li>
-			<li>Universiti Pertahanan Nasional Malaysia (UPNM)</li>
-			<li>Universiti Teknikal Malaysia Melaka (UTeM)</li>
-			<li>Universiti Utara Malaysia</li>
-			<li>Universiti Selangor</li>
-			<li>Universiti Sains Islam Malaysia</li>
-			<li>Universiti Teknologi MARA Shah Alam</li>
-			<li>Universiti Teknologi MARA Perlis</li>
-			<li>Universiti Teknologi PETRONAS</li>
-		</ul>
+<div class="row">
+	<div class="col-lg-8 col-md-8 col-sm-8 col-md-offset-2"><br><br>
+	<h4>UTPHAX 2015 Teams & Participants</h4><br><br>
+		<div class="panel panel-primary">
+			<div class="panel-heading">
+				<h3 class="panel-title">List of participating Institute</h3>
+			</div>
+			<div class="panel-body">
+				<b>Venue</b>: Universiti Teknologi PETRONAS<br>
+				<b>Date</b>: 13-14 November 2015<br><br>
+				The listed Institutes below are registered for UTPHAX'15.<br>
+				<br>
+				<ul>
+					<li>PPoliteknik Seberang Perai</li>
+					<li>Universiti Putra Malaysia</li>
+					<li>Asia Pacific University</li>
+					<li>Kolej Poly-Tech MARA Alor Setar (KPTM)</li>
+					<li>Kolej Universiti Islam Antarabangsa Selangor</li>
+					<li>University Kuala Lumpur Malaysian Institute of Information Technology</li>
+					<li>University Teknologi MARA Melaka</li>
+					<li>Multimedia University</li>
+					<li>Universiti Teknologi MARA Terengganu</li>
+					<li>Universiti Pendidikan Sultan Idris (UPSI)</li>
+					<li>Universiti Pertahanan Nasional Malaysia (UPNM)</li>
+					<li>Universiti Teknikal Malaysia Melaka (UTeM)</li>
+					<li>Universiti Utara Malaysia</li>
+					<li>Universiti Selangor</li>
+					<li>Universiti Sains Islam Malaysia</li>
+					<li>Universiti Teknologi MARA Shah Alam</li>
+					<li>Universiti Teknologi MARA Perlis</li>
+					<li>Universiti Teknologi PETRONAS</li>
+				</ul>
+			</div>
+		</div>
 	</div>
 </div>
+
+<br/><br/>
 
 <div class="row">
 	<div class="carousel slide" data-interval="false" data-ride="carousel" id="carousel-banner">
@@ -108,6 +111,8 @@ categories:
 		</div>
 	</div>
 </div>
+
+<br/><br/>
 
 <div>
 	<table class="table table-striped table-responsive" id="my-table">

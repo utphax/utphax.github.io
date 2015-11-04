@@ -5,12 +5,8 @@ categories:
 - compete
 ---
 
-<h1>UTPHAX 2015</h1>
-<h3>Total Prizes</h3>
-
-<h2>RM15,000</h2>
-
-
+<h1>UTPHAX 2015<br/></h1>
+<h2>RM15,000<br/><br/></h2>
 
 <div class="panel panel-primary">
   <div class="panel-heading">

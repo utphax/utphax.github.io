@@ -5,8 +5,7 @@ categories:
 - compete
 ---
 
-**The following UTP-HAX 2015 event flow is tentative and subject to change**
-**last updated 2 November 2015**
+**The following UTP-HAX 2015 event flow is tentative and subject to change** - last updated 2 November 2015
 
 
 ####Day 1
