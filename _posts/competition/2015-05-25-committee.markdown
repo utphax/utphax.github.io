@@ -77,32 +77,21 @@ Ms. Hamidah Nasaruddin, IT & Media Services, UTP
 <br/><br/>
 
 <b>PREPARATION, TECHNICAL, SAFETY & SECURITY</b><br/>
-Mr. Sabri Abu Bakar, IT & Media Services, UTP
-<br/>
-Mr. Meor Mohd Zamil B Meor Hussein, IT & Media Services, UTP
-<br/>
-Mr. Abdul Zawawi Abdul Aziz, IT & Media Services, UTP (Team Leader)
-<br/>
-Mr. Ruslan Idris, IT & Media Services, UTP
-<br/>
-Mr. Khairul Azhar Zainal, IT & Media Services, UTP
-<br/>
-Mr. Mohd Ayub Harun, IT & Media Services, UTP
-<br/>
-Mr. Badrul Hidayat Kadri, IT & Media Services, UTP
-<br/>
-Mr. Ahmad Hafiz Ghadzali, IT & Media Services, UTP
-<br/>
-Mr. Arfaishah, IT & Media Services, UTP
-<br/>
-Mrs. Nurhashimah Hashim, IT & Media Services, UTP
-<br/>
-Mr. Mohamad Nizam Hamdan, IT & Media Services, UTP
-<br/>
-Mr. Zuraimee Anor, IT & Media Services, UTP
-<br/>
-Mr. M Khairul Fadzli B M Azmi, IT & Media Services, UTP
-<br/>
+Mr. Sabri Abu Bakar, IT & Media Services, UTP<br/>
+Mr. Meor Mohd Zamil B Meor Hussein, IT & Media Services, UTP<br/>
+Mr. Abdul Zawawi Abdul Aziz, IT & Media Services, UTP (Team Leader)<br/>
+Mr. Ruslan Idris, IT & Media Services, UTP<br/>
+Mr. Khairul Azhar Zainal, IT & Media Services, UTP<br/>
+Mr. Mohd Ayub Harun, IT & Media Services, UTP<br/>
+Mr. Badrul Hidayat Kadri, IT & Media Services, UTP<br/>
+Mr. Ahmad Hafiz Ghadzali, IT & Media Services, UTP<br/>
+Mr. Arfaishah, IT & Media Services, UTP<br/>
+Mrs. Nurkamar Faridatul Salwa, IT & Media Services, UTP<br/>
+Mrs. Azarina Harun Ahmad, IT & Media Services, UTP<br/>
+Mrs. Nurhashimah Hashim, IT & Media Services, UTP<br/>
+Mr. Mohamad Nizam Hamdan, IT & Media Services, UTP<br/>
+Mr. Zuraimee Anor, IT & Media Services, UTP<br/>
+Mr. M Khairul Fadzli B M Azmi, IT & Media Services, UTP<br/>
 Mr. Faizal Ahmad Fadzil, , Computer and Information Sciences Department, UTP
 <br/><br/>
 
