@@ -11,4 +11,4 @@ categories:
 * Registration fee : RM200 per team
 
 
-<p><br/><a href="{{ "/compete/registration/" | prepend: site.baseurl }}" class="btn btn-theme">View Teams</a></p>
+<p><br/><a href="{{ "/compete/participants/" | prepend: site.baseurl }}" class="btn btn-theme">View Teams</a></p>
