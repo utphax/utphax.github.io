@@ -5,8 +5,6 @@ categories:
 - compete
 ---
 
-**The following UTP-HAX 2015 event flow is tentative and subject to change** - last updated 2 November 2015
-
 
 ####Day 1
 
@@ -16,3 +14,6 @@ categories:
 ####Day 2
 
 <img src="/assets/img/competition/3.jpg" alt="day2">
+
+
+**last updated 2 November 2015**
