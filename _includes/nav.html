@@ -7,13 +7,13 @@
         Sponsored by
         <div class="row">
           <div class="col-xs-4 col-md-4">
-            <a href="http://www.fortinet.com/" target="blank"><img src="{{ "/assets/img/organization/fortinet.png" | prepend: site.baseurl }}" class="img-responsive center-block"></a>
+            <a href="http://www.fortinet.com/" target="blank"><img src="{{ "/assets/img/organization/fortinet.png" | prepend: site.baseurl }}" class="img-responsive center-block unimage"></a>
           </div>
           <div class="col-xs-4 col-md-4">
-            <a href="http://www.cybersecurity.my/" target="blank"><img src="{{ "/assets/img/organization/cybersec.png" | prepend: site.baseurl }}" class="img-responsive center-block"></a>
+            <a href="http://www.cybersecurity.my/" target="blank"><img src="{{ "/assets/img/organization/cybersec.png" | prepend: site.baseurl }}" class="img-responsive center-block unimage"></a>
           </div>
           <div class="col-xs-4 col-md-4">
-            <a href="http://www.kperak.com.my/" target="blank"><img src="{{ "/assets/img/organization/kperak.png" | prepend: site.baseurl }}" class="img-responsive center-block"></a>
+            <a href="http://www.kperak.com.my/" target="blank"><img src="{{ "/assets/img/organization/kperak.png" | prepend: site.baseurl }}" class="img-responsive center-block unimage"></a>
           </div>
         </div><!--/.row-sponsors -->
       </div>
@@ -21,13 +21,13 @@
         Organised by
         <div class="row">
           <div class="col-xs-4 col-md-4">
-            <a href="http://cyberhax.club/" target="blank"><img src="{{ "/assets/img/organization/cyberhax.png" | prepend: site.baseurl }}" class="img-responsive center-block"></a>
+            <a href="http://cyberhax.club/" target="blank"><img src="{{ "/assets/img/organization/cyberhax.png" | prepend: site.baseurl }}" class="img-responsive center-block unimage"></a>
           </div>
           <div class="col-xs-4 col-md-4">
-            <a href="http://syntechutp.weebly.com/" target="blank"><img src="{{ "/assets/img/organization/syntech.png" | prepend: site.baseurl }}" class="img-responsive center-block"></a>
+            <a href="http://syntechutp.weebly.com/" target="blank"><img src="{{ "/assets/img/organization/syntech.png" | prepend: site.baseurl }}" class="img-responsive center-block unimage"></a>
           </div>
           <div class="col-xs-4 col-md-4">
-            <a href="http://utp.edu.my/" target="blank"><img src="{{ "/assets/img/organization/utp.png" | prepend: site.baseurl }}" class="img-responsive center-block"></a>
+            <a href="http://utp.edu.my/" target="blank"><img src="{{ "/assets/img/organization/utp.png" | prepend: site.baseurl }}" class="img-responsive center-block unimage"></a>
           </div>
         </div><!--/.row-organizers -->
       </div>
@@ -60,17 +60,19 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">UTPHAX'15 &nbsp<i class="fa fa-caret-down"></i></a>
             <ul class="dropdown-menu">
-              <li {% if page.title == "Invitation" %}class="active"{% endif %}><a href="{{"/compete/invitation/" | prepend: site.baseurl }}">Invitation</a></li>
               <li {% if page.title == "Programme" %}class="active"{% endif %}><a href="{{"/compete/programme/" | prepend: site.baseurl }}">Programme</a></li>
+              <li {% if page.title == "Participants" %}class="active"{% endif %}><a href="{{"/compete/participants/" | prepend: site.baseurl }}">Participants</a></li>
               <li {% if page.title == "Accommodation" %}class="active"{% endif %}><a href="{{"/compete/accommodation/" | prepend: site.baseurl }}">Accommodation</a></li>
               <li role="separator" class="divider"></li>
+              <li {% if page.title == "Invitation" %}class="active"{% endif %}><a href="{{"/compete/invitation/" | prepend: site.baseurl }}">Invitation</a></li>
               <li {% if page.title == "Registration" %}class="active"{% endif %}><a href="{{"/compete/registration/" | prepend: site.baseurl }}">Registration</a></li>
+              <li {% if page.title == "Payment" %}class="active"{% endif %}><a href="{{"/compete/payment/" | prepend: site.baseurl }}">Payment</a></li>
+              <li {% if page.title == "Committee" %}class="active"{% endif %}><a href="{{"/compete/committee/" | prepend: site.baseurl }}">Committee</a></li>
               <li role="separator" class="divider"></li>
               <li {% if page.title == "Rules" %}class="active"{% endif %}><a href="{{"/compete/rules/" | prepend: site.baseurl }}">Rules</a></li>
               <li {% if page.title == "Prize" %}class="active"{% endif %}><a href="{{"/compete/prize/" | prepend: site.baseurl }}">Prize</a></li>
-              <li {% if page.title == "Payment" %}class="active"{% endif %}><a href="{{"/compete/payment/" | prepend: site.baseurl }}">Payment</a></li>
-              <li {% if page.title == "Committee" %}class="active"{% endif %}><a href="{{"/compete/committee/" | prepend: site.baseurl }}">Committee</a></li>
-              <li {% if page.title == "Participants" %}class="active"{% endif %}><a href="{{"/compete/participants/" | prepend: site.baseurl }}">Participants</a></li>
+
+
             </ul>
           </li>
         </ul>
