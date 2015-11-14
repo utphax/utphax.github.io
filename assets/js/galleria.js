@@ -11,7 +11,7 @@
         overlayBackground: '#313131',
         flickrOptions:{
             size: 'original',
-            description: false,
+            description: 'false',
             max: 100,
             sort: 'date-taken-asc'
         }

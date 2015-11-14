@@ -415,7 +415,9 @@ csmall {
 #galleria2,
 #galleria3,
 #galleria4,
-#galleria5 {
+#galleria5,
+#galleria6,
+#galleria7 {
   height: 500px;
 }
 
@@ -733,3 +735,6 @@ csmall {
     -webkit-transition-duration: 0.3s; /* Safari */
     z-index: 1;
     }
+
+.galleria-container { background: #fff;}
+.galleria-thumbnails { margin: auto;}
