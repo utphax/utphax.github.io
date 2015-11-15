@@ -3,7 +3,6 @@ layout: default
 title: 2015
 permalink: /
 ---
-{% include slider.html %}
 
 <div id="service">
   <div class="container">
@@ -19,18 +18,18 @@ permalink: /
         <i class="fa fa-heart-o"></i>
         <h4>UTPHAX</h4>
         <p>UTPHAX is a national level hacking competition organized by Universiti Teknologi PETRONAS.</p>
-        <p><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">Read More</a></p>
+        <p><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">About Us</a></p>
       </div>
       <div class="col-md-4">
         <i class="fa fa-trophy"></i>
         <h4>UTPHAX'15</h4>
-        <p>Registration is now closed. We're eager to see everyone during the tournament, so see you there!</p>
-        <p><a href="{{ "/compete/participants/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+        <p>Congratulations to all winning teams! We hope everyone had fun while they put their skills to good use.</p>
+        <p><a href="{{ "/compete/participants/" | prepend: site.baseurl }}" class="btn btn-theme">View Results</a></p>
       </div>
       <div class="col-md-4">
         <i class="fa fa-black-tie"></i>
         <h4>Cosplay</h4>
-        <p>Come visit us at this year's UTPHAX in a cosplay, show off your fancy outfits and stand a chance to win up to RM1000.</p>
+        <p></p>
         <p><a href="{{ "/cosplay/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
       </div>
     </div>
@@ -38,25 +37,22 @@ permalink: /
 </div><! --/service -->
 
 <br/>
+
 {% include event.html %}
+{% include slider.html %}
 
 <div class="container mtb">
   <div class="row">
-
-    <div class="col-lg-5 col-md-5 col-sm-5 col-md-offset-1">
-      <h4>UTP-HAX'15</h4>
-      <div class="hline"></div>
-      <div class="spacing"></div>
+    <div class="col-lg-8 col-md-8 col-sm-8">
       <!-- 16:9 aspect ratio -->
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GOxsJZtZmnk"></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TyXaBd7KzH0"></iframe>
       </div>
       <div class="alert alert-success" role="alert">
-        <a href="https://youtu.be/8ASBq7UiKCs" target="_blank" class="alert-link">Click here to see last year's montage.</a>
+        <a href="https://youtu.be/J6fUgJfFUxU" target="_blank" class="alert-link">Click here to see UTPHAX'15 montage.</a>
       </div>
     </div>
-
-    <div class="col-lg-4 col-md-4 col-sm-4 col-md-offset-1">
+    <div class="col-lg-4 col-md-4 col-sm-4">
       <a class="twitter-timeline" href="https://twitter.com/utphax_15" data-widget-id="635075231833452544">Tweets by @utphax_15</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
@@ -69,7 +65,7 @@ permalink: /
             <h3>UTPHAX is made possible by</h3>
             {% for sponsor in site.sponsor %}
                 <div class="col-xs-6 col-md-3">
-                    <img src="{{ "/assets/img/organization/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive center-block">
+                    <img src="{{ "/assets/img/organization/" | prepend: site.baseurl }}{{ sponsor.img }}" class="img-responsive center-block unimage">
                 </div>
             {% endfor %}
         </div><! --/row -->

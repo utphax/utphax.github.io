@@ -36,6 +36,8 @@ social:
     url: https://instagram.com/utphax15/
   - title: send
     url: mailto:utphax@cyberhax.club
+  - title: youtube
+    url: https://www.youtube.com/channel/UCyO4CoSypQn3BRaRj0GrCVg/videos
 
 # Address. Shown in footer and on Contact page.
 address:
@@ -83,5 +85,5 @@ event:
     host: Universiti Teknologi PETRONAS
     date: 13th-14th November 2015
     early: 31 August 2015 (CLOSED)
-    reg: 22 October 2015
+    reg: 22 October 2015 (CLOSED)
     venue: Department of Computer and Information Sciences, Universiti Teknologi PETRONAS.
