@@ -738,3 +738,12 @@ csmall {
 
 .galleria-container { background: #fff;}
 .galleria-thumbnails { margin: auto;}
+
+#prizewrap {
+  padding-bottom: 10px;
+  background: {{site.colors.secondary}};
+}
+
+.btn-width {
+  width: 100%;
+}
