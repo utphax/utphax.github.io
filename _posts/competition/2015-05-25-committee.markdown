@@ -5,7 +5,7 @@ categories:
 - compete
 ---
 
-####UTPHAX 2015
+<h3>UTPHAX 2015</h3>
 <h3>Organizing Committee</h3>
 
 <p><br/>
@@ -46,7 +46,8 @@ Mr. Ahmad Izuddin Zainal Abidin, Computer and Information Sciences Department, U
 Mr. Saipunidzam Mahamad, Computer and Information Sciences Department, UTP<br/>
 Ms. Nurulhuda M Hashim, Computer and Information Sciences Department, UTP<br/>
 Ms. Safinaz Hamzah, Computer and Information Sciences Department, UTP<br/>
-Mr. Sayuthi b Shaaran, Property Mgmt & Maintenance, UTP<br/><br/>
+Mr. Sayuthi b Shaaran, Property Mgmt & Maintenance, UTP<br/>
+Mr. Hasrin Bin Md Sihap, Faculty of Science & IT (FSIT), UTP<br/><br/>
 
 <b>DOCUMENTS, ARCHIVE & REPOSITORY</b><br/>
 IT & Media Services<br/><br/>

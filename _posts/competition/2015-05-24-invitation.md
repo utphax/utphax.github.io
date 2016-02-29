@@ -5,12 +5,12 @@ categories:
 - compete
 ---
 
-####Welcome!
+<h4>Welcome!</h4>
 The UTPHAX Secretariat and the organizers cordially invites all institutions of higher education in Malaysia to participate in the coming UTP-HAX'15 tournament.
 
 <div class="spacing"></div>
 
-####UTP-HAX'15 is open to
+<h4>UTP-HAX'15 is open to</h4>
 * Under 25 years old students who are currently enrolled in public or private institutions of higher learning in Malaysia. Particularly those from their Faculty or Department of Computer Science, Mathematics, and Engineering are invited to participate in the UTP-HAX competition, which is a team-based hacking competition.
 
 * Each team shall comprise of exactly three (3) members and is led by a coach.

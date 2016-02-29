@@ -5,7 +5,7 @@ categories:
 - compete
 ---
 
-####UTHAX 2015
+<h4>UTHAX 2015</h4>
 Participants shall arrange their own accommodations and transportation.<br/>
 Please find the list of available nearby accommodations below :
 
