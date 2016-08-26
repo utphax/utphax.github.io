@@ -2,6 +2,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/1.3.0/retina.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 <script src="{{ "/assets/js/jquery.hoverdir.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/jquery.hoverex.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/jquery.prettyPhoto.js" | prepend: site.baseurl }}"></script>
@@ -26,3 +27,21 @@ $.getJSON('/assets/js/participant.json', function(data) {
 });
 </script>
 {% endif %}
+<script type="text/javascript">
+$(document).ready(function(){
+		var utphax_cookie = $.cookie($('.modal-check').attr('name'));
+		if (utphax_cookie && utphax_cookie == "true") {
+				$(this).prop('checked', utphax_cookie);
+		}
+		else{
+				$('#cybersocks').modal('show');
+		}
+
+		$(".modal-check").change(function() {
+				$.cookie($(this).attr("name"), $(this).prop('checked'), {
+						path: '/',
+						expires: 7
+				});
+		});
+});
+</script>
