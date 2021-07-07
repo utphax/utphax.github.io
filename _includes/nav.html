@@ -1,4 +1,11 @@
 <!-- masthead -->
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').catch(function (error) {
+        console.error(error);
+    });
+  }
+</script>
 <header class="masthead">
   <div class="container">
     <div class="spacing"></div>
